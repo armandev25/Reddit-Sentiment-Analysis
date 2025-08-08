@@ -59,17 +59,18 @@ I chose Logistic Regression because:
 
 ### Sample Visualizations
 
-![Confusion Matrix](<img width="568" height="453" alt="image" src="https://github.com/user-attachments/assets/39e3575e-fd30-4f32-9a4b-e266bd5b0f37" />
-)  
+![Confusion Matrix](images/Confusion%20Matrix.png)
+
 *Confusion matrix comparing true vs predicted labels for Logistic Regression*
 
-![Feature Importance Word Cloud](<img width="794" height="427" alt="image" src="https://github.com/user-attachments/assets/d80e6bc0-9d3d-43c6-8a20-be59ec15bc79" />
-)  
+![Feature Importance Word Cloud](images/Feature%20Importance%20Word%20Cloud.png)
+
 *Word cloud showing top positive and negative words from Logistic Regression coefficients*
 
-![Top Bigrams Bar Chart](<img width="937" height="545" alt="image" src="https://github.com/user-attachments/assets/118f5011-adde-4a6d-804a-9c844bce2f7d" />
-)  
+![Top Bigrams Bar Chart](images/Top%20Bigrams%20Bar%20Chart.png)
+
 *Bar chart displaying the frequency of the top bigrams in the dataset*
+
 
 ---
 
